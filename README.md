@@ -1,3 +1,4 @@
 # OpticalCharacterRecognition
 
-https://gist.github.com/ujhrkzy/2e0e206f7495470e66f4.js
+環境構築方法は下記参照
+https://gist.github.com/ujhrkzy/2e0e206f7495470e66f4
